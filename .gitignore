@@ -1,0 +1,8 @@
+/psx-env
+
+*.csv
+*.json
+*.log
+*.html
+*.xml
+*.jsonl
